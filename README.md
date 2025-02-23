@@ -1,5 +1,7 @@
-# 💫 About Me:
-I'm currently learning Next Js<br>
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+
+# Hello World!, I'm Firoz AL Hasan, a Web Developer 👋🏼:
+🛜 currently working on my own [webpage](https://firoz-portfolio-soxila.vercel.app/)<br>👨🏼‍🎓 studying media-based computer science at Dhaka International University (DIU)<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
 ## 🌐 Socials:
